@@ -12,8 +12,7 @@ During my Master's internship in Applied Mathematics at CY Cergy Paris Universit
 
 ## Pipeline Architecture
 
-![Pipeline architecture](https://github.com/dialloalassane052001-ui/multimodal-material-property-prediction/blob/0726aace2215c60852f9b7441ce647e754b6870c/architecture_pipeline.png
-)
+![Pipeline architecture](images/architecture_pipeline.png)
 
 *(diagram illustrating the overall multimodal pipeline — data ingestion, preprocessing, model fusion, evaluation)*
 
@@ -49,9 +48,9 @@ The project was carried out within the L2MGC laboratory (CY Cergy Paris Universi
 
 ## About Me
 
-**Moussa Diallo** — Master's student in Applied Mathematics (MApI3), Université Toulouse III – Paul Sabatier.
+**Moussa Diallo** — Graduate in Applied Mathematics (Master MApI3), Université Toulouse III – Paul Sabatier.
 
-Currently looking for a **work-study position (alternance)** starting Fall 2026 in Data Science, AI, Data Analysis, Modeling, or Scientific Computing.
+Actively looking for a **full-time position or work-study opportunity (alternance)** in Data Science, AI, Data Analysis, Modeling, or Scientific Computing.
 
 - 📧 diallomoussa052001@gmail.com
 - 💻 GitHub: [dialloalassane052001-ui](https://github.com/dialloalassane052001-ui)
