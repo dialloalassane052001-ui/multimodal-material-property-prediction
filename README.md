@@ -12,7 +12,7 @@ During my Master's internship in Applied Mathematics at CY Cergy Paris Universit
 
 ## Pipeline Architecture
 
-![Pipeline architecture](images/architecture_pipeline.png)
+![Pipeline architecture](https://github.com/dialloalassane052001-ui/multimodal-material-property-prediction/blob/4c2ec4bcb942d8d013a3408d9d2ba4c57c166319/architecture_pipeline.png)
 
 *(diagram illustrating the overall multimodal pipeline — data ingestion, preprocessing, model fusion, evaluation)*
 
